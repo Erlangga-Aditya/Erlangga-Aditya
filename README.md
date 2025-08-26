@@ -6,7 +6,7 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 - 🔭 I’m currently learning and working on personal projects to sharpen my coding skills  
 - 🌱 I’m focusing on improving my back-end and database knowledge  
 - 💬 Feel free to ask me about HTML, CSS, JavaScript, Java, or MySQL  
-- 📫 How to reach me: your_email@example.com  
+- 📫 How to reach me: eaditya313@gmail.com
 - ⚡ Fun fact: I love history and sports besides coding!  
 
 ---
