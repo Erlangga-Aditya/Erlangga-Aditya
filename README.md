@@ -20,6 +20,12 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 <br><br>
 
 ---
+### 📊 GitHub Statistics
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erlangga-Aditya&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=algolia"/>
+</p>
+
 
 ---
 
