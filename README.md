@@ -21,17 +21,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 
 ---
 
-### 📊 GitHub Statistics  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlangga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlangga&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-
 ---
 
 ### 🌐 Reach me on  
