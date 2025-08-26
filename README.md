@@ -21,13 +21,16 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 
 ---
 
-### 📊 Github Statistic  
-<p align="left">
-<a href="https://github.com/erlangga">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erlangga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erlangga&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### 📊 GitHub Statistics  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlangga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlangga&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
 
 ---
 
