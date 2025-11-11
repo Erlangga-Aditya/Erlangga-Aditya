@@ -6,7 +6,7 @@
 
 </div>
 
-### 🚀 About Me
+## 🚀 About Me
 
 A passionate **Information Systems student** who loves to learn and build projects in web development!  
 I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to grow my skills.
@@ -19,72 +19,78 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="#"><img alt="HTML5" title="HTML5" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" /></a>
-  <a href="#"><img alt="CSS3" title="CSS3" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" /></a>
-  <a href="#"><img alt="JavaScript" title="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img alt="Java" title="Java" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" /></a>
-  <a href="#"><img alt="MySQL" title="MySQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" /></a>
+  <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions!
+## 🐍 Watch the Snake Eat My Contributions!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erlangga-Aditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erlangga-Aditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erlangga-Aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erlangga-Aditya&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erlangga-Aditya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erlangga-Aditya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Erlangga-Aditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 <details>
 <summary>📈 More Statistics</summary>
 <br>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erlangga-Aditya&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erlangga-Aditya&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erlangga-Aditya&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erlangga-Aditya&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erlangga-Aditya&theme=tokyonight" alt="Most Commit Language" />
+</div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erlangga-Aditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erlangga-Aditya&theme=tokyonight" alt="Productive Time" />
+</div>
 
 </details>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erlangga-aditya-124b27263">
+  <a href="https://www.linkedin.com/in/erlangga-aditya-124b27263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:eaditya313@gmail.com">
@@ -100,7 +106,7 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views Counter
+### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Erlangga-Aditya&color=blueviolet&style=flat-square&label=Profile+Views)
 
