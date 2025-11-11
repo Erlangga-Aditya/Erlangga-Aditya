@@ -21,11 +21,39 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 
 ---
 ### 📊 GitHub Statistics
+
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erlangga-Aditya&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erlangga-Aditya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erlangga-Aditya&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erlangga-Aditya&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erlangga-Aditya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<details>
+<summary>📈 More Statistics</summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erlangga-Aditya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erlangga-Aditya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erlangga-Aditya&theme=tokyonight" />
+</p>
+</details>
+</p>
 
 ---
 
