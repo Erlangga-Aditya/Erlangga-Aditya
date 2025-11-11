@@ -37,10 +37,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erlangga-Aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
