@@ -41,9 +41,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erlangga-Aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erlangga-Aditya&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
 ---
 
 ## 🌐 Connect With Me
@@ -56,8 +53,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
