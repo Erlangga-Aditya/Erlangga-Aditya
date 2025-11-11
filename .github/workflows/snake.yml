@@ -1,0 +1,120 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. **PASTE** ke dalam editor
+4. Scroll ke bawah
+5. Klik tombol hijau **"Commit changes"**
+6. Klik **"Commit changes"** lagi di popup
+
+✅ **Checkpoint 2**: File workflow sudah dibuat!
+
+---
+
+## **STEP 5: Jalankan Workflow (Buat Ular Pertama Kali)**
+
+### ▶️ Cara menjalankan workflow:
+
+1. Di repository **Erlangga-Aditya**, klik tab **"Actions"** (di atas, sebelah "Pull requests")
+2. **Jika muncul peringatan "Workflows aren't being run"**:
+   - Klik tombol hijau **"I understand my workflows, go ahead and enable them"**
+3. Di sidebar kiri, klik **"Generate Snake"**
+4. Di bagian kanan, klik tombol hijau **"Run workflow"**
+5. Klik **"Run workflow"** lagi di dropdown yang muncul
+6. **TUNGGU** sekitar 30-60 detik
+7. Refresh halaman (F5)
+8. Anda akan lihat workflow dengan status:
+   - ⚪ **Kuning** (sedang jalan) → tunggu
+   - ✅ **Hijau** (berhasil) → SUKSES!
+   - ❌ **Merah** (gagal) → ada error
+
+---
+
+## **STEP 6: Cek Hasilnya!**
+
+### 👀 Lihat profil Anda:
+
+1. Buka **profil GitHub** Anda: `https://github.com/Erlangga-Aditya`
+2. **REFRESH** halaman (tekan F5 atau Ctrl+Shift+R untuk hard refresh)
+3. **Scroll ke bawah** untuk melihat:
+   - ✅ Animasi ketik otomatis di header
+   - ✅ Tech stack icons
+   - ✅ **ULAR BERGERAK!** 🐍
+   - ✅ GitHub statistics
+   - ✅ Streak stats
+   - ✅ Contribution graph
+   - ✅ Trophies
+   - ✅ Quote of the day
+   - ✅ Profile view counter
+
+---
+
+## **❗ TROUBLESHOOTING - Kalau Ada Masalah**
+
+### **Problem 1: Ular tidak muncul**
+**Solusi:**
+- Cek workflow di tab Actions, pastikan ✅ hijau (berhasil)
+- Jika ❌ merah (gagal):
+  1. Klik workflow yang gagal
+  2. Klik "Re-run all jobs"
+- Tunggu 1-2 menit setelah workflow berhasil
+- Hard refresh browser (Ctrl+Shift+R)
+
+### **Problem 2: GitHub Stats tidak muncul**
+**Solusi:**
+- Tunggu 10-30 detik, kadang server Vercel lambat
+- Hard refresh browser (Ctrl+Shift+R)
+- Jika masih kosong setelah 1 menit, kemungkinan service sedang down, coba lagi nanti
+
+### **Problem 3: Workflow tidak bisa di-enable**
+**Solusi:**
+- Pastikan repository bernama sama dengan username: **Erlangga-Aditya**
+- Pastikan repository bersifat **Public** (bukan Private)
+- Cek di Settings → Actions → General → pastikan "Allow all actions" tercentang
+
+### **Problem 4: File snake.yml error saat dibuat**
+**Solusi:**
+- Pastikan nama file PERSIS: `.github/workflows/snake.yml`
+- Ada titik (.) di depan `.github`
+- Ada garis miring `/` untuk membuat folder
+- Tidak ada spasi
+
+---
+
+## **📸 VISUAL GUIDE**
+
+### Struktur file yang benar:
+```
+Erlangga-Aditya/
+├── .github/
+│   └── workflows/
+│       └── snake.yml
+└── README.md
