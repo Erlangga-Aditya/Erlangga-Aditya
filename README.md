@@ -31,15 +31,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erlangga-Aditya/Erlangga-Aditya/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -55,19 +46,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erlangga-Aditya&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erlangga-Aditya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erlangga-Aditya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <details>
@@ -97,20 +75,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  
-### 💡 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Erlangga-Aditya&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 
