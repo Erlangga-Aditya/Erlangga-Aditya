@@ -2,8 +2,6 @@
   
 # 👋 Hi! I'm Erlangga
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Information+Systems+Student;Web+Development+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
-
 </div>
 
 ## 🚀 About Me
@@ -46,23 +44,6 @@ I've been exploring HTML, CSS, JavaScript, Java, and MySQL as my main stack to g
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erlangga-Aditya&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
----
-
-<details>
-<summary>📈 More Statistics</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erlangga-Aditya&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erlangga-Aditya&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erlangga-Aditya&theme=tokyonight" alt="Productive Time" />
-</div>
-
-</details>
-
 ---
 
 ## 🌐 Connect With Me
