@@ -41,20 +41,7 @@ I'm an **Information Systems student** exploring the world of web development. I
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<!-- Menggunakan Markdown standard agar lebih stabil -->
-![Erlangga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erlangga-Aditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erlangga-Aditya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
