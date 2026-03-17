@@ -2,7 +2,7 @@
 
 # 👋 Hi! I'm Erlangga
 
-### 💻 A Passionate Information Systems Student
+### 💻 Information Systems Student
 
 <br/>
 
